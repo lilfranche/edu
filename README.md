@@ -1,2 +1,2 @@
 # edu
-Training projects
+Training courses projects
